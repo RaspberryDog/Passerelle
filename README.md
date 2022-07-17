@@ -1,2 +1,0 @@
-# Passerelle
-Système Passerelle
